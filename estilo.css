@@ -112,6 +112,7 @@ h3 {
     border-radius: 8px;
     border-style: groove;
     border-width: 6px ;
+    margin-left: 18px;
 
     transition-duration: .5s;
     transition-timing-function: ease;
