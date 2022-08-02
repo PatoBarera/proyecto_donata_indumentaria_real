@@ -188,6 +188,18 @@ h3 {
     left:  9px;
    } 
 
+   .input3 {
+    position: relative;
+    top: -5px;
+    right: 45px;
+   } 
+
+   .numero_compra {
+    position: relative;
+    right: 50px;
+
+   } 
+
    .descripcion {
   text-align: right;
   position: relative;
@@ -404,7 +416,54 @@ h3 {
 
 .logo_instagram_2:hover {
     transform: scale(1.06);
-}    
+} 
+
+.container-fluid {
+
+
+    
+} 
+
+#navbarSupportedContent {
+
+    position: relative !important;
+    left: 100px;
+    font-family: 'Playfair Display', serif !important;
+    color: #29325d;
+    
+  
+    
+    }
+
+#navbar_navbarprincipal {
+    position: relative;
+    
+    
+    }
+
+.titulo_bootstrap {
+
+    position: relative !important;
+    display: inline;
+    left: 150px !important;
+    font-family: 'Playfair Display', serif;
+    color: #29325d;
+    font-size: 90px;
+
+} 
+
+.titulo_bootstrap h1 {
+
+    font-size: 60px;
+
+} 
+
+.dropdown-item {
+
+    font-family: 'Playfair Display', serif;
+    color: #29325d;
+
+} 
   
 
 
