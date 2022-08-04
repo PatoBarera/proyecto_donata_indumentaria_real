@@ -189,12 +189,20 @@ li:hover{
 .mb-3 {
     width: 350px;
     color: #f68546;
+    text-align: center;
+    margin-right: 0 !important;
+    padding-right: 0 !important;
+    position: relative;
+    left: 150px;
 }
 
-.form-label{
-
-    padding-right: 50px;
+#boton_contacto {
+    position: relative;
+    left: 150px ;
 }
+
+
+
 
 .div_contacto {
     display: flex;
@@ -207,7 +215,7 @@ div div h3 {
 }
 
 div h2 {
-    color: white;
+    color:#f68546;
     text-align: center;
     font-size: 60px;
  }
