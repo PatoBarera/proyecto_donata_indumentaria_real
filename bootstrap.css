@@ -159,3 +159,60 @@ li:hover{
 .h3_footer {
     font-size: 20px;
 }
+
+
+
+
+.main_contacto {
+
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: #29325d;
+    font-family: 'Bebas Neue', cursive;
+
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+
+}
+
+.div_form {
+    display: flex;
+    flex-direction: column;
+    color: #f68546;
+    margin-right: 40px;
+    padding-right: 30px;
+    border-right: 25px;
+
+}
+
+.mb-3 {
+    width: 350px;
+    color: #f68546;
+}
+
+.form-label{
+
+    padding-right: 50px;
+}
+
+.div_contacto {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+div div h3 {
+   color: white;
+}
+
+div h2 {
+    color: white;
+    text-align: center;
+    font-size: 60px;
+ }
+
+ .div_form {
+    margin-top: 10px;
+    margin-bottom: 15px;
+ }
