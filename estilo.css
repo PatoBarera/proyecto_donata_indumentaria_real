@@ -418,52 +418,14 @@ h3 {
     transform: scale(1.06);
 } 
 
-.container-fluid {
 
 
-    
-} 
 
-#navbarSupportedContent {
 
-    position: relative !important;
-    left: 100px;
-    font-family: 'Playfair Display', serif !important;
-    color: #29325d;
-    
-  
-    
-    }
 
-#navbar_navbarprincipal {
-    position: relative;
-    
-    
-    }
 
-.titulo_bootstrap {
 
-    position: relative !important;
-    display: inline;
-    left: 150px !important;
-    font-family: 'Playfair Display', serif;
-    color: #29325d;
-    font-size: 90px;
 
-} 
-
-.titulo_bootstrap h1 {
-
-    font-size: 60px;
-
-} 
-
-.dropdown-item {
-
-    font-family: 'Playfair Display', serif;
-    color: #29325d;
-
-} 
   
 
 
